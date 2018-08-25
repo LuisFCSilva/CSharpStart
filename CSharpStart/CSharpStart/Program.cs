@@ -1,12 +1,10 @@
 ﻿using System;
 
-namespace CSharpStart
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace CSharpStart {
+    class Program {
+        static void Main(string[] args) {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome C#!");
         }
     }
 }
