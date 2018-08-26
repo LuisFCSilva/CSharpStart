@@ -1,0 +1,11 @@
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\bin\Debug\netcoreapp2.1\CSharpStart.deps.json
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\bin\Debug\netcoreapp2.1\CSharpStart.runtimeconfig.json
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\bin\Debug\netcoreapp2.1\CSharpStart.runtimeconfig.dev.json
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\bin\Debug\netcoreapp2.1\CSharpStart.dll
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\bin\Debug\netcoreapp2.1\CSharpStart.pdb
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\obj\Debug\netcoreapp2.1\CSharpStart.csprojAssemblyReference.cache
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\obj\Debug\netcoreapp2.1\CSharpStart.csproj.CoreCompileInputs.cache
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\obj\Debug\netcoreapp2.1\CSharpStart.AssemblyInfoInputs.cache
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\obj\Debug\netcoreapp2.1\CSharpStart.AssemblyInfo.cs
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\obj\Debug\netcoreapp2.1\CSharpStart.dll
+C:\Users\Projeto - DEV\Desktop\Udemy\C#\CSharpStart\CSharpStart\obj\Debug\netcoreapp2.1\CSharpStart.pdb
