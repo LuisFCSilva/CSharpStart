@@ -46,7 +46,7 @@ namespace CSharpStart.Fundamentos {
             Console.WriteLine("Valor de Mercado Apple: " + priceComputer);
 
             decimal distanceBetweenStars = decimal.MaxValue;
-            Console.WriteLine("Distancia entre uma estrela:" + distanceBetweenStars);
+            Console.WriteLine("Distancia entre uma estrela: " + distanceBetweenStars);
 
             char letter = 'A';
             Console.WriteLine("Media Aluno: " + letter);
