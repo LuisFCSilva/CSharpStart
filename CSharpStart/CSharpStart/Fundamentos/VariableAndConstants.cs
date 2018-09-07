@@ -43,7 +43,7 @@ namespace CSharpStart.Fundamentos {
             Console.WriteLine("Valor computador: " + priceComputer);
 
             double priceOfAppleEnterprise = 1_000_000_000_000.99;
-            Console.WriteLine("Valor de Mercado Apple: " + priceComputer);
+            Console.WriteLine("Valor de Mercado Apple: " + priceOfAppleEnterprise);
 
             decimal distanceBetweenStars = decimal.MaxValue;
             Console.WriteLine("Distancia entre uma estrela: " + distanceBetweenStars);
