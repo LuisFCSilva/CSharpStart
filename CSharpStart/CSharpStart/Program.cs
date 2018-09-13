@@ -18,6 +18,10 @@ namespace CursoCSharp {
                 {"Conversões - Fundamentos", Conversion.Executar },
                 {"Operadores Aritmeticos - Fundamentos", Operator.Executar },
                 {"Operadores Relacionais - Fundamentos", OperatorRelational.Executar },
+                {"Operadores Lógicos - Fundamentos", OperatorLogics.Executar },
+                {"Operadores de Atribuição - Fundamentos", OperatorAtribuition.Executar },
+                {"Operadores Unários - Fundamentos", OperatorUnary.Executar },
+                {"Operadores Ternário - Fundamentos", OperatorTernary.Executar },
             });
 
             central.SelecionarEExecutar();
